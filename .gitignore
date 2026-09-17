@@ -14,7 +14,6 @@ venv/
 
 # Editors and operating systems
 .idea/
-.vscode/
 .DS_Store
 Thumbs.db
 
@@ -35,9 +34,9 @@ datasets/
 outputs/
 logs/
 wandb/
-.env
-.env.*
 !.env.example
 *.pem
 *.key
 *.token
+config.bat
+node_modules
